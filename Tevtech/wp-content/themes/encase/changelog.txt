@@ -1,0 +1,88 @@
+-------------------------------------------------------
+    CHANGELOG
+-------------------------------------------------------
+
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating 
+bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at 
+what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different 
+parts of a program, by giving you a history of how the conflicting concepts arose and who they came from.
+
+
+-------------------------------------------------------
+    CHANGELOG Legend
+-------------------------------------------------------
+
+[+] = Added
+[*] = Changed
+[^] = Moved
+[=] = No Changes
+[x] = Deleted
+[!] = Bugs
+
+-------------------------------------------------------
+
+15th June 2014 - Version 1.0 Styled Themes <www.styledthemes.com>
+	- Initial release
+
+-------------------------------------------------------
+19 October - Version 1.0.1 Styled Themes <www.styledthemes.com>
+[!]	- Fixed the demo link
+
+-------------------------------------------------------
+
+10 November - Version 1.0.3 Styled Themes <www.styledthemes.com>
+
+[!]	- Fixed the demo link
+
+------------------------------------------------------
+
+2 December 2015 - Version 1.1.0 Styled Themes <www.styledthemes.com>
+
+[!]	Homepage header alignement bug Fixed
+[+]	The support for header image Added
+
+----------------------------------------------------
+
+3 December 2015 - Version 1.2.0 Styled Themes <www.styledthemes.com>
+
+[!]	Mobile responsive menu bug Fixed
+
+----------------------------------------------------
+
+18 January 2016 - Version 1.3.0 Styled Themes <www.styledthemes.com>
+
+[+] Sticky menu Added
+
+---------------------------------------------------
+
+24 March 2016 - Version 2.0.0 Styled Themes <www.styledthemes.com>
+
+[+] Move to top featured Added
+[!] Customizer js bug Fixed
+
+---------------------------------------------------
+
+05 May 2016 - Version 2.5.0 Styled Themes <www.styledthemes.com>
+
+[+]  Customzier setting to hide author inforamation Added
+
+---------------------------------------------------
+
+14 June 2016 - Version 2.5.2 Styled Themes <www.styledthemes.com>
+
+[+] Hover effect on post featured image Added
+
+---------------------------------------------------
+
+26 October 2017 - Version 2.5.3 Styled Themes <www.styledthemes.com>
+
+[*] Changed theme urls
+[*] Changed view pro version url
+[*][+] Changed and added option in the copyright link in footer
+
+01 November 2017 - Version 2.5.4 Styled Themes <www.styledthemes.com>
+
+[x] Unnecessary upsells bottom removed
+[x] Non-working customizer fields removed
+
+
